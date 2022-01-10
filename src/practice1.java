@@ -4,6 +4,8 @@ public  class practice1 {
 
     // step 2
 
-    // step
+    // step 3
+
+    // step 4
 
 }
